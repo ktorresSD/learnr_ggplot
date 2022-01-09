@@ -1,4 +1,4 @@
-"","country","points","price","province","taster_name","variety"
+"wine_id","country","rating","price","province","taster_name","variety"
 "13","US",83,25,"New Jersey","Alexander Peartree","Chardonnay"
 "14","US",84,18,"Virginia","Alexander Peartree","Chardonnay"
 "16","US",84,32,"Michigan","Alexander Peartree","Chardonnay"
